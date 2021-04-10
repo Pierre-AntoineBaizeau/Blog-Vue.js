@@ -29,7 +29,8 @@ Vos anciennes information apparaitrons et vous pourrez les modifier.
 Il est possible de voir tout les articles sans pouvoir les éditer ou supprimer mais il est possible de les consulter en cliquant dessus.
 
 <img src="https://user-images.githubusercontent.com/70761069/114268688-b1e32e80-9a02-11eb-9304-c17e19ac984c.png" width="500">
------------
+
+----------------
 
 
 ## Project setup
